@@ -38,8 +38,8 @@ MEDIAINFO_ENABLED = ""          #Default is False (only use by owner/sudo) Make 
 SET_BOT_COMMANDS = "" 
 
 # Update
-UPSTREAM_REPO = ""
-UPSTREAM_BRANCH = ""
+UPSTREAM_REPO = "https://github.com/Bala-developere/Frieza-Mirror"
+UPSTREAM_BRANCH = "heroku"
 
 #PM SUPPORT
 BOT_PM = ""
